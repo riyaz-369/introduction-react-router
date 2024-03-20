@@ -1,0 +1,9 @@
+nav a {
+    margin-right: 20px;
+}
+
+nav a.active {
+    background-color: rgb(255, 241, 227);
+    padding: 4px;
+    border-radius: 5px;
+}
